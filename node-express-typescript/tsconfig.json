@@ -103,7 +103,7 @@
     // "noPropertyAccessFromIndexSignature": true,       /* Enforces using indexed accessors for keys declared using an indexed type. */
     // "allowUnusedLabels": true,                        /* Disable error reporting for unused labels. */
     // "allowUnreachableCode": true,                     /* Disable error reporting for unreachable code. */
- "outDir": "./dist/Server",
+ "outDir": "./dist",
  "rootDir": "./",
     /* Completeness */
     // "skipDefaultLibCheck": true,                      /* Skip type checking .d.ts files that are included with TypeScript. */
@@ -113,7 +113,7 @@
     "Server/**/*",
     "Utility/**/*",
     "Model/**/*"
-    
+
   ],
   "exclude": ["node_modules"]
 
